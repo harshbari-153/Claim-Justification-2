@@ -82,6 +82,6 @@ The Polifact Dataset used in this project includes claims available on Kaggle We
 
 ## Contact
 For questions or suggestions, feel free to contact:
-- [Your Name](mailto:your.email@example.com)
-- GitHub: [Your GitHub Profile](https://github.com/username)
+- [Harsh Bari](mailto:bari.harsh2001@gmail.com)
+- GitHub: [harshbari-153](https://github.com/harshbari-153)
 
