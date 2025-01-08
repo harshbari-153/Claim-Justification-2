@@ -61,7 +61,7 @@ training_args = TrainingArguments(
     save_strategy="epoch",
     logging_dir="./logs",
     logging_steps=10,
-    predict_with_generate=True,
+    #predict_with_generate=True,
 )
 
 trainer = Trainer(
