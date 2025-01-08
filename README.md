@@ -27,11 +27,7 @@ Each fine-tuned model is stored in its respective folder.
    git clone https://github.com/harshbari-153/Text_Generation_in_Claim_Justification.git
    cd Text_Generation_in_Claim_Justification
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the fine-tuned models from the respective folders.
+2. Download the fine-tuned models from the respective folders.
 
 ## Features
 - Generates cross questions for claims with inadequate justifications.
