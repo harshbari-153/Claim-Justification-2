@@ -24,25 +24,14 @@ Each fine-tuned model is stored in its respective folder.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/cross-question-generator.git
-   cd cross-question-generator
+   git clone https://github.com/harshbari-153/Text_Generation_in_Claim_Justification.git
+   cd Text_Generation_in_Claim_Justification
    ```
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 3. Download the fine-tuned models from the respective folders.
-
-## Usage
-Run the main script to generate cross questions:
-```bash
-python generate_question.py --model [model_name] --claim "<claim>" --justification "<justification>"
-```
-### Example:
-```bash
-python generate_question.py --model t5_base --claim "Vaccines cause autism." --justification "There are anecdotal reports from parents."
-```
-**Output:** "What scientific evidence supports the link between vaccines and autism?"
 
 ## Features
 - Generates cross questions for claims with inadequate justifications.
@@ -56,7 +45,7 @@ python generate_question.py --model t5_base --claim "Vaccines cause autism." --j
 - **T5-base** and **T5-small**: Versatile models fine-tuned for various NLP tasks, leveraged for question generation.
 
 ## Dataset Details
-The Polifact Dataset used in this project includes claims and their corresponding justifications scraped from the Polifact website. The dataset enables the model to learn patterns in claims and justifications and identify gaps that can be addressed with targeted questions.
+The Polifact Dataset used in this project includes claims available on Kaggle Website and their corresponding justifications scraped from the Polifact website. The dataset enables the model to learn patterns in claims and justifications and identify gaps that can be addressed with targeted questions.
 
 ## Folder Structure
 ```
@@ -68,48 +57,24 @@ The Polifact Dataset used in this project includes claims and their correspondin
 |   |-- merge_program.py (Script to merge justifications and questions for training)
 |-- 7 create question models/
 |   |-- bart/
-|   |   |-- fine_tuned_model/
-|   |   |-- finetune_script.py
-|   |   |-- model.zip
+|   |   |-- create_model.py
+|   |   |-- BART_model.zip
 |   |-- gpt_2/
-|   |   |-- fine_tuned_model/
-|   |   |-- finetune_script.py
-|   |   |-- model.zip
+|   |   |-- create_model.py
+|   |   |-- gpt2_model.zip
 |   |-- pegasus/
-|   |   |-- fine_tuned_model/
-|   |   |-- finetune_script.py
-|   |   |-- model.zip
+|   |   |-- create_model.py
+|   |   |-- pegasus_model.zip
 |   |-- t5_base/
-|   |   |-- fine_tuned_model/
-|   |   |-- finetune_script.py
-|   |   |-- model.zip
+|   |   |-- create_model.py
+|   |   |-- t5_base_model.zip
 |   |-- t5_small/
-|   |   |-- fine_tuned_model/
-|   |   |-- finetune_script.py
-|   |   |-- model.zip
-|-- data/
-|   |-- polifact_dataset.csv
-|-- generate_question.py
-|-- requirements.txt
+|   |   |-- create_model.py
+|   |   |-- t5_small_model.zip
+|-- dataset/
+|   |-- polifact_dataset.json
 |-- README.md
 ```
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes and push the branch:
-   ```bash
-   git commit -m "Add your message here"
-   git push origin feature/your-feature-name
-   ```
-4. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Polifact Dataset for providing real-world claims and justifications.
