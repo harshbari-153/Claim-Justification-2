@@ -1,0 +1,2 @@
+"number ICU beds larger" and "number adult icu beds" do not align together
+Your claim is false

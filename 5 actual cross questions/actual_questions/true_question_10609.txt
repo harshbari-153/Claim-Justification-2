@@ -1,0 +1,2 @@
+"Says Kay Hagan supports" and "Kay hagan says supports" do not align together
+Your claim is false

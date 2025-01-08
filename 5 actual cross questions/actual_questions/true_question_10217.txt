@@ -1,0 +1,2 @@
+if "Says New York Mayor" is true then what about "Newsround Michael bloomberg talking" ?
+Your claim is half-true

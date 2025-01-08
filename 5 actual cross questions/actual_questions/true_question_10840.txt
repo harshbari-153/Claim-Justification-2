@@ -1,0 +1,2 @@
+if "Electricity rates percent higher" is true then what about "states higher electricity rates" ?
+Your claim is half-true

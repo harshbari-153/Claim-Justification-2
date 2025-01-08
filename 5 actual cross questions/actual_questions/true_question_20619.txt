@@ -1,0 +1,2 @@
+if "Dan Sullivan wrote bill" is true then what about "dan sullivan wrote bill" ?
+Your claim is half-true

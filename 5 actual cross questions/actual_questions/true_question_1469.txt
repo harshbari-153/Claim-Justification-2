@@ -1,0 +1,2 @@
+if "[ ] USDA study" is true then what about "study found percent chicken" ?
+Your claim is half-true

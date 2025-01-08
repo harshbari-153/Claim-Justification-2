@@ -1,0 +1,2 @@
+if "Says New Jersey jobs" is true then what about "new jersey said state" ?
+Your claim is half-true

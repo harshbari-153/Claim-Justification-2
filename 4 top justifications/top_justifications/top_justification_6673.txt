@@ -1,0 +1,6 @@
+"‘Private’ messages sent to individual people during a Zoom meeting show up in the end-of-meeting transcript along with all other public messages."
+private messages sent to individual people during a zoom meeting show up in the transcript along with all other public messages reads the screenshot of a tweet
+private messages sent to zoom meeting hosts could appear in their transcript
+if the person who recorded the meeting decided to share the transcript people could then see any private messages you or others sent that person
+in short if you send a private message to the person recording the meeting it could end up on a transcript
+if you send a private message to another person in the meeting someone who isn t able to record the meeting those messages won t end up in the transcript

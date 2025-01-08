@@ -1,0 +1,2 @@
+if "Says poll showed percent" is true then what about "city Charlottesville Virginia voted" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "permission engage given word" is true then what about "reuters cameraman given permission" ?
+Your claim is half-true

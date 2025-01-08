@@ -1,0 +1,2 @@
+if "Says average Ohio student" is true then what about "president American Association University" ?
+Your claim is half-true

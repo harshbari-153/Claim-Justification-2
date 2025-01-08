@@ -1,0 +1,2 @@
+if "Says administrator salaries increased" is true then what about "average salary school administrator" ?
+Your claim is half-true

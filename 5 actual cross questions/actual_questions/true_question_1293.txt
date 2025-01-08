@@ -1,0 +1,2 @@
+if "Says President Donald Trump" is true then what about "Donald Trump says plans" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "Says Amy McGrath wants" is true then what about "US Senate candidate Alison" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "Says David Jolly lobbied" is true then what about "campaign ad claims lobbied" ?
+Your claim is half-true

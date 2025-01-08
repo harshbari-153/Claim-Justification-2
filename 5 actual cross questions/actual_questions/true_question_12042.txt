@@ -1,0 +1,2 @@
+if "Says Kevin Cramer voted" is true then what about "BBC Wales political correspondent" ?
+Your claim is half-true

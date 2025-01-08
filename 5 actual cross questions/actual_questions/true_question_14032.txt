@@ -1,0 +1,2 @@
+if "Says California Gov Jerry" is true then what about "California Governor Jerry Brown" ?
+Your claim is half-true

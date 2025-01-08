@@ -1,0 +1,2 @@
+if "New York state spends" is true then what about "New York state spends" ?
+Your claim is half-true

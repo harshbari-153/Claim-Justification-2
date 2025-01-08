@@ -1,0 +1,2 @@
+if "Says Texas ranks states" is true then what about "New Jersey polluted state" ?
+Your claim is half-true

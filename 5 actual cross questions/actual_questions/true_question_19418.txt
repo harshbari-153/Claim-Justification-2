@@ -1,0 +1,2 @@
+if "Sen. McConnell says job" is true then what about "Kentucky Senator Mitch McConnell" ?
+Your claim is half-true

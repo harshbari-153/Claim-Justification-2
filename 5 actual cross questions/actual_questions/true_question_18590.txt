@@ -1,0 +1,2 @@
+if "Says Rick Perry spoke" is true then what about "US President Barack Obama" ?
+Your claim is half-true

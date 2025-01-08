@@ -1,0 +1,2 @@
+if "Says number Democrats voted" is true then what about "US House Representatives voted" ?
+Your claim is half-true

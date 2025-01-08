@@ -1,0 +1,2 @@
+if "Says Joe Jill Biden" is true then what about "joe biden jill biden" ?
+Your claim is half-true

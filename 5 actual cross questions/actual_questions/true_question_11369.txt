@@ -1,0 +1,2 @@
+if "Says Indiana Gov Mike" is true then what about "mike pence denies thing" ?
+Your claim is half-true

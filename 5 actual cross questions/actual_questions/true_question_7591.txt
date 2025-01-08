@@ -1,0 +1,2 @@
+if "Says Goldman Sachs CEO" is true then what about "Democratic presidential candidate Bernie" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "Says Joe Garcia voted" is true then what about "war words joe garcia" ?
+Your claim is half-true

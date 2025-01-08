@@ -1,0 +1,2 @@
+if "Says ’ said build" is true then what about "Texas Governor Greg Abbott" ?
+Your claim is half-true

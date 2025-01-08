@@ -1,0 +1,2 @@
+if "Says Austin voters approve" is true then what about "Austin finance director says" ?
+Your claim is half-true

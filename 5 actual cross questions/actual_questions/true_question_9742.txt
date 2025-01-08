@@ -1,0 +1,2 @@
+if "bill sent governor ’" is true then what about "difference bill sent governor" ?
+Your claim is half-true

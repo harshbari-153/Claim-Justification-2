@@ -1,0 +1,2 @@
+if "Says President Barack Obama" is true then what about "president United States Barack" ?
+Your claim is half-true

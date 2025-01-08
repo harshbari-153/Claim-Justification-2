@@ -1,0 +1,2 @@
+if "Says Missouri needs voter" is true then what about "Voters US state Wisconsin" ?
+Your claim is half-true

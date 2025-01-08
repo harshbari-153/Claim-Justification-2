@@ -1,0 +1,2 @@
+if "Says Amazon paying full-time" is true then what about "New York Times published" ?
+Your claim is half-true

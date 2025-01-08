@@ -1,0 +1,2 @@
+if "Says Austin lowest property" is true then what about "Austin American-Statesman looks lowest" ?
+Your claim is half-true

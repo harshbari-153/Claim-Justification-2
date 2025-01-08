@@ -1,0 +1,2 @@
+if "Says pay new chancellor" is true then what about "true chancellor receives basic" ?
+Your claim is half-true

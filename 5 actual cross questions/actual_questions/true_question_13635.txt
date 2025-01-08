@@ -1,0 +1,2 @@
+if "Says Jim Renacci voted" is true then what about "Congressman Jim Renacci facing" ?
+Your claim is half-true

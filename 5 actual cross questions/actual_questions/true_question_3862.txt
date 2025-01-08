@@ -1,0 +1,2 @@
+if "Says Bill Clinton signed" is true then what about "US Supreme Court ruled" ?
+Your claim is half-true

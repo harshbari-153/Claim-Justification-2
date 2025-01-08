@@ -1,0 +1,2 @@
+if "Says Gov Rick Scott" is true then what about "Health Minister Mark Drakeford" ?
+Your claim is half-true

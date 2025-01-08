@@ -1,0 +1,2 @@
+if "Says latest polls show" is true then what about "latest polls show tied" ?
+Your claim is half-true

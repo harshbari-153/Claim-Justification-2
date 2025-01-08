@@ -1,0 +1,2 @@
+if "Says Senator Joe Manchin" is true then what about "West Virginia Senator Joe" ?
+Your claim is half-true

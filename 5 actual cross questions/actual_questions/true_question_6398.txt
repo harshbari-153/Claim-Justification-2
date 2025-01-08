@@ -1,0 +1,2 @@
+if "Says Gov Rick Perry" is true then what about "Former prime minister Tony" ?
+Your claim is half-true

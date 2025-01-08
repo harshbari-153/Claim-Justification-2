@@ -1,0 +1,2 @@
+if "Says percent Austin ’" is true then what about "Austin Mayor Steve Adler" ?
+Your claim is half-true

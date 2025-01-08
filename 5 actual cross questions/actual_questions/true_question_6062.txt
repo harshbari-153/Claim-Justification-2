@@ -1,0 +1,2 @@
+if "Says IBM leader told" is true then what about "chief executive ibm defended" ?
+Your claim is half-true

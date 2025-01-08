@@ -1,0 +1,2 @@
+if "Republican tax bill passed" is true then what about "new republican tax bill" ?
+Your claim is half-true

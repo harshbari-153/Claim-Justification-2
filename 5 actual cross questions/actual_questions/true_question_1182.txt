@@ -1,0 +1,2 @@
+if "Says poll found Republican" is true then what about "Republican presidential candidate Mitt" ?
+Your claim is half-true

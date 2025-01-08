@@ -1,0 +1,2 @@
+if "John Mica voted borrow" is true then what about "BBC political editor John" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "President Barack Obama supports" is true then what about "President Barack Obama tweeted" ?
+Your claim is half-true

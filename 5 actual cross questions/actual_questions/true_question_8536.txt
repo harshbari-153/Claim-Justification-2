@@ -1,0 +1,2 @@
+"Says zip tie attached" and "Reports zip ties used" do not align together
+Your claim is false

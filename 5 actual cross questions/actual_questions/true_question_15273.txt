@@ -1,0 +1,2 @@
+"Says photo shows height" and "Donald Trump tweeted photo" do not align together
+Your claim is false

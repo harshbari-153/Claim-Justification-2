@@ -1,0 +1,2 @@
+if "Says Obama submitted budget" is true then what about "interview BBC political editor" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "Says congressional candidate Dino" is true then what about "Comedian Bill Bailey criticised" ?
+Your claim is half-true

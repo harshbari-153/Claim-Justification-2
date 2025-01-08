@@ -1,0 +1,6 @@
+"Pick up a product. Look at the barcode. If the first 3 numbers are 690 or 691 or 692, the product was made in China."
+if the first numbers are or or the product was made in china
+if the first numbers are or or the product was made in china
+a barcode won t tell you if a product was made in china
+the prefix of the number that accompanies a barcode does not indicate what country the product was manufactured in
+the facebook post claims that the first two to three digits of a product number indicate a product s country of origin

@@ -1,0 +1,2 @@
+if "Says Ohio Gov John" is true then what about "Republican presidential candidate john" ?
+Your claim is half-true

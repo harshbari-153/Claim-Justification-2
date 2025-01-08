@@ -1,0 +1,2 @@
+if "Says North Carolina hospital" is true then what about "number hospital beds Northern" ?
+Your claim is half-true

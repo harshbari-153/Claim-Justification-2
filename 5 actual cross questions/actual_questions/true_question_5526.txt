@@ -1,0 +1,2 @@
+if "Says John James opposes" is true then what about "Republican presidential candidate john" ?
+Your claim is half-true

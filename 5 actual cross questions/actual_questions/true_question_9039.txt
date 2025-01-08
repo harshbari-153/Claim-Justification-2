@@ -1,0 +1,2 @@
+if "Says new Apple update" is true then what about "Apple announced major update" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "[ city Atlanta ]" is true then what about "Newsround takes look state" ?
+Your claim is half-true

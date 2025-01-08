@@ -1,0 +1,2 @@
+if "Says Ted Budd voted" is true then what about "manning ad said ted" ?
+Your claim is half-true

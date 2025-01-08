@@ -1,0 +1,2 @@
+if "DEP employees lowest level" is true then what about "number people working Department" ?
+Your claim is half-true

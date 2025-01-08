@@ -1,0 +1,6 @@
+A database police use to look up wanted suspects excludes certain warrants issued by Atlanta Municipal Court.
+police may rely upon the atlanta criminal information center database to find out whether someone has a warrant but in certain cases it can t tell them
+city criminal database lacks some atlanta warrants
+if these arrest warrants aren t in the system how do police know whom to haul to jail we talked to atlanta police reviewed existing policies and statutes contacted court officials and looked at investigative reports to find some answers
+but when an atlanta municipal judge issues a warrant because someone fails to appear in court no one hands this paperwork over for entry in the city s database police spokesman carlos campos told politifact
+bench warrants are arrest warrants initiated by a judge often when people fail to appear in court

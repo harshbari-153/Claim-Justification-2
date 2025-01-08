@@ -1,0 +1,2 @@
+if "Says bicycles parked space" is true then what about "new study found bicycles" ?
+Your claim is half-true

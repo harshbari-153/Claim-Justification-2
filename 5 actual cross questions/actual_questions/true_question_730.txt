@@ -1,0 +1,2 @@
+if "Says changes State Health" is true then what about "North Dakota Health Association" ?
+Your claim is half-true

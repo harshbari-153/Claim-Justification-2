@@ -1,0 +1,2 @@
+if "Says bill vetoed give" is true then what about "Arizona governor vetoed bill" ?
+Your claim is half-true

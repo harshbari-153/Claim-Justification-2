@@ -1,0 +1,2 @@
+if "Says Donald Trump written" is true then what about "cruz says donald trump" ?
+Your claim is half-true

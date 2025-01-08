@@ -1,0 +1,2 @@
+if "Says election clerk Green" is true then what about "eve election row broken" ?
+Your claim is half-true

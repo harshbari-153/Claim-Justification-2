@@ -1,0 +1,2 @@
+if "Says Donald Trump ’" is true then what about "Ted Cruz says Donald" ?
+Your claim is half-true

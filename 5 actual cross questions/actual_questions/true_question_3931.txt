@@ -1,0 +1,2 @@
+if "Says campaign platform includes" is true then what about "Democratic presidential candidate Hillary" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "Says Kevin Cramer wants" is true then what about "US Senate passed bill" ?
+Your claim is half-true

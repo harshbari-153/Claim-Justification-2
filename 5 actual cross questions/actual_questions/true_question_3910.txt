@@ -1,0 +1,2 @@
+"Says mean [ income" and "mean income family year" do not align together
+Your claim is false

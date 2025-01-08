@@ -1,0 +1,2 @@
+if "Austin mayoral candidate Steve" is true then what about "Austin mayoral candidate steve" ?
+Your claim is half-true

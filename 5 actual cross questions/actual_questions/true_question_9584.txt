@@ -1,0 +1,2 @@
+if "Says Nick Rahall voted" is true then what about "interview BBC political editor" ?
+Your claim is half-true

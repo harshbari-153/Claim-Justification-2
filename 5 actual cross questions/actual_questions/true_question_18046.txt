@@ -1,0 +1,2 @@
+if "President Barack Obama veto" is true then what about "President Barack Obama vetoed" ?
+Your claim is half-true

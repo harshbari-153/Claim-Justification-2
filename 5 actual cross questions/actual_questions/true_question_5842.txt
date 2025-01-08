@@ -1,0 +1,2 @@
+everything is alright, but "job openings listed state" and "number jobs available state" do not match with each other
+Your claim is mostly-true

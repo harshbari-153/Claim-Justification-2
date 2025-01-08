@@ -1,0 +1,2 @@
+if "Says Rick Scott took" is true then what about "Rick Scott drank fountain" ?
+Your claim is half-true

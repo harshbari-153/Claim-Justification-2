@@ -1,0 +1,2 @@
+if "Says Nike pays factory" is true then what about "Nike come fire social" ?
+Your claim is half-true

@@ -1,0 +1,2 @@
+if "Says Dave Brat voted" is true then what about "Congressman Dave brat facing" ?
+Your claim is half-true

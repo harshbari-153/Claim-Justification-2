@@ -1,0 +1,2 @@
+if "Says President Barack Obama" is true then what about "Democratic presidential hopeful eric" ?
+Your claim is half-true

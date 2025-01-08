@@ -1,0 +1,2 @@
+if "Says today unemployment running" is true then what about "Democratic candidate New York" ?
+Your claim is half-true

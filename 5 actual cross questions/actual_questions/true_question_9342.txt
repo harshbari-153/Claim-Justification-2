@@ -1,0 +1,2 @@
+if "mail ballots PA sent" is true then what about "voters Pennsylvania sent duplicate" ?
+Your claim is half-true
